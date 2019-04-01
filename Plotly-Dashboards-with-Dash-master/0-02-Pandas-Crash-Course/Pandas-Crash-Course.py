@@ -7,11 +7,11 @@
 import pandas as pd
 import numpy as np
 
-
+import os
+os.getcwd()
 # Reading in CSV files. Use the read_csv command.
 # More options: https://pandas.pydata.org/pandas-docs/stable/io.html
-df = pd.read_csv('salaries.csv')
-
+df = pd.read_csv('Plotly-Dashboards-with-Dash-master\\0-02-Pandas-Crash-Course\\salaries.csv')
 print(df)
 
 
