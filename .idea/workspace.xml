@@ -1,9 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  <component name="ChangeListManager">
+    <list default="true" id="5175bebb-78b0-4041-982e-dd3cd301050d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/interactive-python-dashboards-with-plotly-and-dash.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/interactive-python-dashboards-with-plotly-and-dash.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/sesion1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/sesion1-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plotly-Dashboards-with-Dash-master/0-03-Crash-Course-Exercises/Crash-Course-Review-Exercises.py" beforeDir="false" afterPath="$PROJECT_DIR$/Plotly-Dashboards-with-Dash-master/0-03-Crash-Course-Exercises/Crash-Course-Review-Exercises.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bar1.html" beforeDir="false" afterPath="$PROJECT_DIR$/bar1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bar2.html" beforeDir="false" afterPath="$PROJECT_DIR$/bar2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bar3.html" beforeDir="false" afterPath="$PROJECT_DIR$/bar3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/line1.html" beforeDir="false" afterPath="$PROJECT_DIR$/line1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/line2.html" beforeDir="false" afterPath="$PROJECT_DIR$/line2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/line3.html" beforeDir="false" afterPath="$PROJECT_DIR$/line3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/DataShaderExample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/DataShaderExample.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/HelloWorldFigureWidget.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/HelloWorldFigureWidget.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/Interact.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/Interact.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/Overview.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/Overview.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/cars_exploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/cars_exploration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/data/cars/cars.csv" beforeDir="false" afterPath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/data/cars/cars.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/hide_ipython_tbs.py" beforeDir="false" afterPath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/hide_ipython_tbs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/iris_dashboard.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/iris_dashboard.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/nyc_taxi_selection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/notebooks/nyc_taxi_selection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plotly_ipywidget_notebooks-master/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scatter1.html" beforeDir="false" afterPath="$PROJECT_DIR$/scatter1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scatter2.html" beforeDir="false" afterPath="$PROJECT_DIR$/scatter2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scatter3.html" beforeDir="false" afterPath="$PROJECT_DIR$/scatter3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sesion1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sesion1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-plot.html" beforeDir="false" afterPath="$PROJECT_DIR$/temp-plot.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TCQqzRHySsTlruqw2B5msV09tY" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5175bebb-78b0-4041-982e-dd3cd301050d" name="Default Changelist" comment="" />
+      <created>1572961792260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572961792260</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
