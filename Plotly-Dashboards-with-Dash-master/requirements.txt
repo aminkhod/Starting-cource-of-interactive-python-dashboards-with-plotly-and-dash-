@@ -14,7 +14,7 @@ plotly==2.5.1
 python-dateutil==2.7.2
 pytz==2018.4
 requests==2.32.2
-urllib3==1.26.5
+urllib3==1.26.17
 Werkzeug==2.3.8
 jupyter-core>=5.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
